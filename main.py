@@ -14,4 +14,4 @@ while guess != a:
     guess = int(input())
         
 
-print("felicitari")
+print("bravo")
